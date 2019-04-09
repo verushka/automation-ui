@@ -5,5 +5,5 @@ Feature: Home
   Background: Home page is displayed
     Given 'Care4You' page is loaded
 
-  Scenario: Incidents page is displayed
-    And click 'Incidents' tab in 'Header menu'
+  Scenario: Departments page is displayed
+    And click 'Departments' tab in 'Header menu'

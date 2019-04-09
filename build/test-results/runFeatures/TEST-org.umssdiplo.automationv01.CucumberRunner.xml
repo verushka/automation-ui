@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.umssdiplo.automationv01.CucumberRunner" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-04-09T12:08:46" hostname="MacBook-Pro-de-NICAELA.local" time="13.145">
+  <properties/>
+  <testcase name="feature[0](Login)" classname="org.umssdiplo.automationv01.CucumberRunner" time="9.897"/>
+  <testcase name="feature[1](Department)" classname="org.umssdiplo.automationv01.CucumberRunner" time="2.465"/>
+  <testcase name="feature[2](Home)" classname="org.umssdiplo.automationv01.CucumberRunner" time="0.776"/>
+  <testcase name="feature[3](RedirectNewFile)" classname="org.umssdiplo.automationv01.CucumberRunner" time="0.002"/>
+  <testcase name="feature[4](testing)" classname="org.umssdiplo.automationv01.CucumberRunner" time="0.004"/>
+  <system-out><![CDATA[# Login feature review the behavior in thie feature
+Feature: Login
+
+  Scenario: Home page is displayed once set credential in login page ?[90m# Login.feature:4?[0m
+    ?[32mGiven ?[0m?[32m'PHP travel' page is loaded?[0m                                ?[90m# StepsDefinitionPHPtravel.phpTravelPageIsLoaded()?[0m
+    ?[32mAnd ?[0m?[32mset my credentials on 'Login' page?[0m                           ?[90m# StepsDefinitionPHPtravel.setMyCredentialsOnLoginPage()?[0m
+Feature: Department
+
+  Scenario: Departments list is displayed                   ?[90m# care4you/Department.feature:3?[0m
+    ?[32mGiven ?[0m?[32m'Care4You' page is loaded?[0m                         ?[90m# StepsDefinitionCare4You.care4YouPageIsLoaded()?[0m
+    ?[32mAnd ?[0m?[32mclick 'Departments' tab in 'Header menu'?[0m            ?[90m# StepsDefinitionCare4You.navigateToDepartments()?[0m
+    ?[32mAnd ?[0m?[32mclick 'Departments' menu item in 'Departments menu'?[0m ?[90m# StepsDefinitionCare4You.openDepartmentsList()?[0m
+
+  Scenario: Departments form is displayed                           ?[90m# care4you/Department.feature:8?[0m
+    ?[32mGiven ?[0m?[32m'Care4You' page is loaded?[0m                                 ?[90m# StepsDefinitionCare4You.care4YouPageIsLoaded()?[0m
+    ?[32mAnd ?[0m?[32mclick 'Departments' tab in 'Header menu'?[0m                    ?[90m# StepsDefinitionCare4You.navigateToDepartments()?[0m
+    ?[32mAnd ?[0m?[32mclick 'Create an department' menu item in 'Departments menu?[0m ?[90m# StepsDefinitionCare4You.openDepartmentsForm()?[0m
+# Accion, lugar del objeto, ubicacion objeto
+# Click 'Registrar maquinaria' tab in 'Header page'
+Feature: Home
+
+  Background: Home page is displayed ?[90m# care4you/Home.feature:5?[0m
+    ?[32mGiven ?[0m?[32m'Care4You' page is loaded?[0m  ?[90m# StepsDefinitionCare4You.care4YouPageIsLoaded()?[0m
+
+  Scenario: Departments page is displayed        ?[90m# care4you/Home.feature:8?[0m
+    ?[32mAnd ?[0m?[32mclick 'Departments' tab in 'Header menu'?[0m ?[90m# StepsDefinitionCare4You.navigateToDepartments()?[0m
+Feature: RedirectNewFile
+=====================
+new file generated
+=====================
+
+  @sanity
+  Scenario: Testing new path             ?[90m# redirectFileStepDefintions.feature:4?[0m
+    ?[32mGiven ?[0m?[32mTesitng path to generate filed?[0m ?[90m# CommonStepdef.tesitngPathToGenerateFiled()?[0m
+Feature: testing
+=====================
+Testing cucumber java
+=====================
+
+  @bvt
+  Scenario: first scenario                         ?[90m# userFeatureFiles.feature:4?[0m
+    ?[32mGiven ?[0m?[32mfirst introduction to cucumber with java?[0m ?[90m# GeneralSteps.firstIntroductionToCucumberWithJava()?[0m
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72) on port 7233
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+abr 09, 2019 8:08:48 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACI?N: Detected dialect: OSS
+]]></system-err>
+</testsuite>

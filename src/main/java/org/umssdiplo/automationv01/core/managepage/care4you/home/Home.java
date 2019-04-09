@@ -6,15 +6,14 @@ import org.umssdiplo.automationv01.core.managepage.BasePage;
 import org.umssdiplo.automationv01.core.utils.CommonEvents;
 
 public class Home extends BasePage {
-    @FindBy(id = "root-incidents-menu")
-    private WebElement incidentsOption;
 
-    @FindBy(id = "root-incidents-home")
+    @FindBy(id = "root-departments-home")
     private WebElement homeOption;
 
-    public void navigateToIncidents() {
-        CommonEvents.clickButton(incidentsOption);
-    }
+    @FindBy(id = "root-departments-menu")
+    private WebElement departmentsOption;
+
+    public void navigateToDepartments() { CommonEvents.clickButton(departmentsOption);}
 
     public void navigateToHome() {
         CommonEvents.clickButton(homeOption);

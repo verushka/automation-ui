@@ -59,6 +59,7 @@ task runFeatures(type: Test) {
     // Do not use the Gradle's HTML report:
     reports.html.enabled = false
 
+    // si hay fallas que lo ignore 
     ignoreFailures = true
 
     doLast {
