@@ -1,18 +1,23 @@
 package org.umssdiplo.automationv01.core.utils.care4you;
 
 import org.umssdiplo.automationv01.core.customwebdriver.ManageDriver;
-import org.umssdiplo.automationv01.core.managepage.care4you.home.Department;
-import org.umssdiplo.automationv01.core.managepage.care4you.home.Home;
+import org.umssdiplo.automationv01.core.managepage.care4you.web.*;
 import org.umssdiplo.automationv01.core.utils.PropertyAccessor;
 import org.umssdiplo.automationv01.core.utils.WebUrls;
 
 public final class Care4You {
     private Home home;
-    private Department department;
+    private DepartmentHome departmentHome;
+    private DepartmentCreate departmentCreate;
+    private DepartmentEdit departmentEdit;
+    private DepartmentDelete departmentDelete;
 
     private Care4You() {
         home = new Home();
-        department = new Department();
+        departmentHome = new DepartmentHome();
+        departmentCreate = new DepartmentCreate();
+        departmentEdit = new DepartmentEdit();
+        departmentDelete = new DepartmentDelete();
     }
 
     public static Care4You init() {
@@ -25,5 +30,16 @@ public final class Care4You {
         return home;
     }
 
-    public Department getDepartment() { return department; }
+    public DepartmentHome getDepartment() { return departmentHome; }
+
+    public DepartmentCreate getDepartmentCreate() {
+        return departmentCreate;
+    }
+
+    public DepartmentEdit getDepartmentEdit() {
+        return departmentEdit;
+    }
+    public DepartmentDelete getDepartmentDelete() {
+        return departmentDelete;
+    }
 }

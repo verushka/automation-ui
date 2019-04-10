@@ -1,11 +1,11 @@
-package org.umssdiplo.automationv01.core.managepage.care4you.home;
+package org.umssdiplo.automationv01.core.managepage.care4you.web;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.umssdiplo.automationv01.core.managepage.BasePage;
 import org.umssdiplo.automationv01.core.utils.CommonEvents;
 
-public class Department extends BasePage {
+public class DepartmentHome extends BasePage {
 
     @FindBy(id = "list-departments-menu")
     private WebElement listDepartmentsOption;
