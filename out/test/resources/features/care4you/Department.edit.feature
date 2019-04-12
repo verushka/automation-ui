@@ -3,17 +3,18 @@ Feature: Department
   Background: Departments form is displayed
     Given 'Care4You' page is loaded
     And click 'Departments' tab in 'Header menu'
-    And click 'Edit an department' form information
+    And click 'Edit last department created' form information
 
-  Scenario Outline: Edit form information
-    Given Enter 'Create an department' form information
-      | code    | name   | description     |
-      | <scode> | <sname> | <sdescription> |
-
+  Scenario Outline: Edit a department form information
+    Given Enter 'Data to edit a department' form information
+      | code    | name    | description    |
+      | <code-value> | <name-value> | <value-description> |
+    And click 'Submit a department edited' form information
+    Then The "<name-value>"'Name-value' field value is edited in 'Departments
 
     Examples:
-      |scode             | sname             | sdescription         |
-      |department-edited1| Operation edited 2| My description edited|
+      | code-value        | name-value        | value-description     |
+      | department-edited | Operation edited  | My description edited |
 
 
 

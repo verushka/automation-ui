@@ -3,15 +3,17 @@ Feature: Department
   Background: Departments form is displayed
     Given 'Care4You' page is loaded
     And click 'Departments' tab in 'Header menu'
-    And click 'Create an department' menu item in 'Departments menu
+    And click 'Create a department' menu item in 'Departments menu
 
-  Scenario Outline: : Departments form is filled
-    Given Enter 'Create an department' form information
-      | code    | name   | description     |
+  Scenario Outline:  Departments form is filled
+    Given Enter 'Data of a department' form information
+      | code    | name    | description    |
       | <scode> | <sname> | <sdescription> |
+    And click 'Submit a department' form information
+    Then The "<scode>"'Scode' field value is displayed in 'Departments
 
 
     Examples:
-      |scode        | sname       | sdescription   |
-      |department-02| Operation   | My description 2|
+      | scode         | sname          | sdescription      |
+      | department-11 | Operation-11   | My description-11 |
 

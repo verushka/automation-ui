@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java" line="9" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java" line="14" mnemonic="2" />
     <bookmark url="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/CucumberRunner.java" line="14" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6452837b-d234-4d7b-ba3e-2b61eac59028" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/CreateDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/resources/features/care4you/Home.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/care4you/Home.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/resources/features/care4you/Incidents.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Incident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/care4you/Care4You.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/care4you/Care4You.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentCreate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentCreate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentEdit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentEdit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/care4you/Department.create.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/care4you/Department.create.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/care4you/Department.delete.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/care4you/Department.delete.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/care4you/Department.edit.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/care4you/Department.edit.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentEdit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/care4you/Incidents.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/care4you/Department.create.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/care4you/Department.create.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/care4you/Department.edit.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/care4you/Department.edit.feature" afterDir="false" />
     </list>
     <list id="789e0503-d248-426d-bdf3-20ac59fc47ff" name="qa" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -35,14 +38,14 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.83279043">
+    <splitter split-orientation="horizontal" split-proportion="0.78050923">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Home.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentCreate.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+                <state relative-caret-position="285">
+                  <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -51,19 +54,28 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature">
+            <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/CommonEvents.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+                <state relative-caret-position="86">
+                  <caret line="20" selection-start-line="20" selection-end-line="20" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/resources/features/Login.feature">
+            <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/GeneralSteps.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" selection-start-line="6" selection-end-line="6" />
+                <state relative-caret-position="60">
+                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.edit.feature">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -71,8 +83,33 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+                <state relative-caret-position="841">
+                  <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="78" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentEdit.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="184">
+                  <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+                  <folding>
+                    <element signature="e#700#701#0" expanded="true" />
+                    <element signature="e#757#758#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/care4you/Care4You.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -81,54 +118,19 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/CucumberRunner.java">
+            <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                <state relative-caret-position="30">
+                  <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature">
+            <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentDelete.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" selection-start-line="9" selection-end-line="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/readme">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gradle.properties">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" selection-start-line="10" selection-end-line="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/build.gradle">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-168">
-                  <caret line="65" column="73" selection-start-line="65" selection-start-column="73" selection-end-line="65" selection-end-column="73" />
-                  <folding>
-                    <element signature="e#0#47#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/settings.gradle">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+                <state relative-caret-position="262">
+                  <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
                 </state>
               </provider>
             </entry>
@@ -136,12 +138,21 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature">
+            <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" selection-start-line="12" selection-end-line="12" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.create.feature">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" selection-start-line="9" selection-end-line="11" />
                 </state>
               </provider>
             </entry>
@@ -154,6 +165,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -172,6 +184,10 @@
       <find>inciden</find>
       <find>Incide</find>
       <find>readme</find>
+      <find>getCode(</find>
+      <find>Submit</find>
+      <find>Enter</find>
+      <find>inci</find>
     </findStrings>
     <replaceStrings>
       <replace>click 'Incidents' tab in 'Header menu'</replace>
@@ -201,18 +217,28 @@
         <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Department.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/care4you/Care4You.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Home.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature" />
         <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/CreateDepartment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/DepartmentCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/DepartmentCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/domain/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentHome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/care4you/Care4You.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.create.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.edit.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentDelete.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentEdit.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
+    <option name="x" value="75" />
     <option name="y" value="23" />
-    <option name="width" value="1356" />
+    <option name="width" value="1365" />
     <option name="height" value="797" />
   </component>
   <component name="ProjectView">
@@ -221,6 +247,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,17 +255,165 @@
               <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="managepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="managepage" type="462c0819:PsiDirectoryNode" />
+              <item name="care4you" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="managepage" type="462c0819:PsiDirectoryNode" />
+              <item name="care4you" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="managepage" type="462c0819:PsiDirectoryNode" />
+              <item name="care4you" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="care4you" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automationv01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automationv01" type="462c0819:PsiDirectoryNode" />
+              <item name="stepdefinitionproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automationv01" type="462c0819:PsiDirectoryNode" />
+              <item name="testdriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uitesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-GA-v05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="care4you" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554854043551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555040203520" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -246,6 +421,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.umssdiplo.automationv01.core.managepage.care4you.web" />
       <recent name="org.umssdiplo.automationv01.core.managepage.care4you.home" />
       <recent name="org.umssdiplo.automationv01.stepdefinitionproject" />
       <recent name="org.umssdiplo.automationv01.core.utils.care4you" />
@@ -267,14 +443,14 @@
     </option>
   </component>
   <component name="RunManager" selected="Cucumber java.Scenario: Departments form is displayed">
-    <configuration name="Feature: Department" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: Department.create" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.create.feature" />
       <option name="GLUE" value="org.umssdiplo.automationv01.stepdefinitionproject" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="org.umssdiplo.automationv01.uitesting.test" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: Department" />
+      <option name="SUGGESTED_NAME" value="Feature: Department.create" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -287,7 +463,7 @@
     </configuration>
     <configuration name="Scenario: Departments form is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature" />
       <option name="GLUE" value="org.umssdiplo.automationv01.stepdefinitionproject" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="org.umssdiplo.automationv01.uitesting.test" />
@@ -304,15 +480,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Departments list is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Departments form is filled (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature" />
       <option name="GLUE" value="org.umssdiplo.automationv01.stepdefinitionproject" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="org.umssdiplo.automationv01.uitesting.test" />
-      <option name="NAME_FILTER" value="^Departments list is displayed$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Departments list is displayed$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Departments list is displayed" />
+      <option name="NAME_FILTER" value="^Departments form is filled$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Departments form is filled$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Departments form is filled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -323,15 +499,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Home page is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Departments form is filled" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.create.feature" />
       <option name="GLUE" value="org.umssdiplo.automationv01.stepdefinitionproject" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="org.umssdiplo.automationv01.uitesting.test" />
-      <option name="NAME_FILTER" value="^Home page is displayed$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Home page is displayed$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Home page is displayed" />
+      <option name="NAME_FILTER" value="^Departments form is filled$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Departments form is filled$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Departments form is filled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -342,15 +518,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Incidents page is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Edit a department form information" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/care4you/Department.edit.feature" />
       <option name="GLUE" value="org.umssdiplo.automationv01.stepdefinitionproject" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="org.umssdiplo.automationv01.uitesting.test" />
-      <option name="NAME_FILTER" value="^Incidents page is displayed$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Incidents page is displayed$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Incidents page is displayed" />
+      <option name="NAME_FILTER" value="^Edit a department form information$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Edit a department form information$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Edit a department form information" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -364,10 +540,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber java.Scenario: Departments form is displayed" />
-        <item itemvalue="Cucumber java.Scenario: Incidents page is displayed" />
-        <item itemvalue="Cucumber java.Scenario: Home page is displayed" />
-        <item itemvalue="Cucumber java.Scenario: Departments list is displayed" />
-        <item itemvalue="Cucumber java.Feature: Department" />
+        <item itemvalue="Cucumber java.Scenario: Edit a department form information" />
+        <item itemvalue="Cucumber java.Feature: Department.create" />
+        <item itemvalue="Cucumber java.Scenario: Departments form is filled (1)" />
+        <item itemvalue="Cucumber java.Scenario: Departments form is filled" />
       </list>
     </recent_temporary>
   </component>
@@ -391,44 +567,49 @@
       <workItem from="1554810156040" duration="3450000" />
       <workItem from="1554852916137" duration="405000" />
       <workItem from="1554853333287" duration="2000" />
-      <workItem from="1554853397099" duration="553000" />
+      <workItem from="1554853397099" duration="1685000" />
+      <workItem from="1554855343737" duration="6472000" />
+      <workItem from="1554862489636" duration="125000" />
+      <workItem from="1554894709755" duration="6412000" />
+      <workItem from="1554981381487" duration="4983000" />
+      <workItem from="1555030581636" duration="8248000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Departments_list_is_displayed - 2019.04.07 at 21h 46m 33s.xml">
-      <configuration name="Scenario: Departments list is displayed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Departments_form_is_filled - 2019.04.11 at 22h 17m 35s.xml">
+      <configuration name="Scenario: Departments form is filled" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Departments_list_is_displayed - 2019.04.08 at 07h 03m 31s.xml">
-      <configuration name="Scenario: Departments list is displayed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Departments_form_is_filled - 2019.04.11 at 22h 31m 59s.xml">
+      <configuration name="Scenario: Departments form is filled" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Departments_list_is_displayed - 2019.04.08 at 07h 10m 33s.xml">
-      <configuration name="Scenario: Departments list is displayed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Departments_form_is_filled - 2019.04.11 at 22h 32m 49s.xml">
+      <configuration name="Scenario: Departments form is filled" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__Department - 2019.04.09 at 07h 44m 19s.xml">
-      <configuration name="Feature: Department" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Departments_form_is_filled_(1) - 2019.04.11 at 22h 54m 02s.xml">
+      <configuration name="Scenario: Departments form is filled (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Departments_form_is_displayed - 2019.04.09 at 08h 06m 53s.xml">
+    <history-entry file="Scenario__Departments_form_is_filled_(1) - 2019.04.11 at 22h 56m 57s.xml">
+      <configuration name="Scenario: Departments form is filled (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Departments_form_is_displayed - 2019.04.11 at 22h 58m 18s.xml">
       <configuration name="Scenario: Departments form is displayed" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Home_page_is_displayed - 2019.04.09 at 08h 07m 14s.xml">
-      <configuration name="Scenario: Home page is displayed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__Department_create - 2019.04.11 at 23h 19m 50s.xml">
+      <configuration name="Feature: Department.create" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Incidents_page_is_displayed - 2019.04.09 at 08h 07m 27s.xml">
-      <configuration name="Scenario: Incidents page is displayed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Edit_a_department_form_information - 2019.04.11 at 23h 21m 08s.xml">
+      <configuration name="Scenario: Edit a department form information" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Departments_form_is_displayed - 2019.04.09 at 08h 07m 53s.xml">
-      <configuration name="Scenario: Departments form is displayed" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Edit_a_department_form_information - 2019.04.11 at 23h 33m 18s.xml">
+      <configuration name="Scenario: Edit a department form information" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Departments_form_is_displayed - 2019.04.09 at 08h 15m 53s.xml">
-      <configuration name="Scenario: Departments form is displayed" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Departments_form_is_displayed - 2019.04.09 at 08h 47m 47s.xml">
+    <history-entry file="Scenario__Departments_form_is_displayed - 2019.04.11 at 23h 33m 37s.xml">
       <configuration name="Scenario: Departments form is displayed" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21270000" />
+    <option name="totallyTimeSpent" value="48642000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,9 +621,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="23" width="1356" height="797" extended-state="0" />
+    <frame x="75" y="23" width="1365" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27092847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21844293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -452,14 +634,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28843337" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35777125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32939634" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.47360703" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25953078" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32796487" />
@@ -525,20 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/CommonStepdef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/GeneralSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/Login/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -568,37 +736,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4YouD.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionPHPtravel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/userFeatureFiles.feature">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/redirectFileStepDefintions.feature">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Incident.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/testdriver/TestDriverChrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/testdriver/TestDriverFirefox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/testdriver/TestSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -610,13 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/unittesting/UseTestNG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -639,93 +770,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Incidents.feature" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/care4you/Care4You.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/CreateDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/CommonEvents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/home/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/CucumberRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -741,10 +790,202 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="65" column="73" selection-start-line="65" selection-start-column="73" selection-end-line="65" selection-end-column="73" />
+        <state relative-caret-position="1365">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Home.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/userFeatureFiles.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/redirectFileStepDefintions.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionPHPtravel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/domain/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/unittesting/UseTestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/testdriver/TestDriverFirefox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/testdriver/TestDriverChrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/CommonStepdef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/GeneralSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/care4you/Care4You.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/utils/CommonEvents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.edit.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/umssdiplo/automationv01/stepdefinitionproject/StepsDefinitionCare4You.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.create.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="9" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/care4you/Department.delete.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/umssdiplo/automationv01/core/managepage/care4you/web/DepartmentEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding>
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
           </folding>
         </state>
       </provider>
