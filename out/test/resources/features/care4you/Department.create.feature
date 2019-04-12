@@ -14,6 +14,6 @@ Feature: Department
 
 
     Examples:
-      | scode        | sname     | sdescription         |
-      | department-1 | Operation | Operation of machine |
+      | scode              | sname       | sdescription         |
+      | department-machine | Maintenance of machine| Operation of machine |
 
